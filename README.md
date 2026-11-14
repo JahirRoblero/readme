@@ -1,162 +1,102 @@
-# 👋 ¡Hola! Soy Ángel Jahir Gómez Roblero
+<h1 data-importer="text" align="center">Hello, welcome!</h1>
 
-### 💻 Software Developer | Ingeniería en Sistemas Computacionales
+###
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales** apasionado por el desarrollo de software, backend, bases de datos, infraestructura y ciberseguridad.
-
-Me gusta construir proyectos completos, desde el **diseño de la base de datos y la API**, hasta el **frontend, despliegue y configuración del servidor**.
-
-```java
-public class Developer {
-
-    String name = "Ángel Jahir Gómez Roblero";
-    String role = "Software Developer";
-    String location = "Oaxaca, México";
-
-    String[] interests = {
-        "Backend Development",
-        "Web Development",
-        "Databases",
-        "Cybersecurity",
-        "Software Architecture",
-        "Linux"
-    };
-
-    String goal = "Convertirme en un desarrollador de software de alto nivel.";
-}
-```
-
----
-
-## 🚀 Sobre mí
-
-* 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**
-* 💻 Enfocado principalmente en **desarrollo de software**
-* ⚙️ Desarrollo APIs REST con **Java + Spring Boot**
-* ⚛️ Desarrollo interfaces web con **React**
-* 🗄️ Trabajo con **MySQL y PostgreSQL**
-* 🔐 Interesado en **ciberseguridad y seguridad de aplicaciones**
-* 🐧 Me gusta trabajar con **Linux y servidores**
-* 🌐 He desplegado aplicaciones web en **VPS**
-* 📚 Siempre aprendiendo nuevas tecnologías y mejores prácticas
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Lenguajes
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-
-### ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-### 🗄️ Bases de datos
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🧰 Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge\&logo=gradle\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-# 🔥 Proyectos destacados
-
-## 🗳️ VotaYa
-
-Plataforma web para la **creación y gestión de votaciones públicas y privadas**.
-
-### Tecnologías
-
-`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `React` `Vite`
-
-### Características
-
-* 🔐 Autenticación mediante JWT
-* 👤 Gestión de usuarios
-* 🗳️ Creación de votaciones
-* 🔒 Votaciones públicas y privadas
-* 👻 Votos anónimos o identificados
-* 📊 Visualización de resultados
-* 💬 Sistema de comentarios
-* 📜 Historial de participación
-* 🌐 Despliegue en servidor VPS
-
----
-
-## ♻️ EcoRuta Oaxaca
-
-Sistema web orientado a mejorar la **gestión e información de la recolección de residuos urbanos en Oaxaca**.
-
-### Objetivos principales
-
-* 🗺️ Consulta de rutas de recolección
-* 📅 Calendarios y horarios
-* 🚛 Gestión de unidades
-* 📍 Seguimiento de rutas
-* ⚠️ Reportes ciudadanos
-* 🗑️ Información sobre clasificación de residuos
-* 📊 Gestión operativa para el personal encargado
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kickgarabato\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kickgarabato\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kickgarabato\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🧠 Actualmente aprendiendo
-
-```text
-☕ Java avanzado
-🌱 Spring Boot
-🔐 Seguridad de aplicaciones
-🗄️ Administración de bases de datos
-🐧 Linux
-🏗️ Arquitectura de software
-🌐 Desarrollo Full Stack
-```
-
----
-
-# 🎯 Objetivo
-
-> Construir software útil, escalable y seguro mientras sigo mejorando mis habilidades como desarrollador.
-
----
-
-<div align="center">
-
-### 💻 Code. Learn. Build. Repeat.
-
-![Profile Views](https://komarev.com/ghpvc/?username=kickgarabato\&style=for-the-badge)
-
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
 </div>
+
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JahirRoblero&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="socials" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=JahirRoblero.JahirRoblero&"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/JahirRoblero/JahirRoblero/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="stats" align="center">
+</div>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
